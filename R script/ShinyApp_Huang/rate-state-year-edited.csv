@@ -1,0 +1,817 @@
+Id,State,Year,Rate
+1,Alabama,1999,17.83
+2,Alaska,1999,14.08
+3,Arizona,1999,16.36
+4,Arkansas,1999,14.63
+5,California,1999,9.12
+6,Colorado,1999,10.7
+7,Connecticut,1999,5.88
+8,Delaware,1999,8.77
+9,District of Columbia,1999,28.59
+10,Florida,1999,10.92
+11,Georgia,1999,13.73
+12,Hawaii,1999,3.47
+13,Idaho,1999,11.84
+14,Illinois,1999,9.78
+15,Indiana,1999,11.25
+16,Iowa,1999,6.92
+17,Kansas,1999,10.04
+18,Kentucky,1999,13.07
+19,Louisiana,1999,17.46
+20,Maine,1999,8.92
+21,Maryland,1999,12.5
+22,Massachusetts,1999,3.09
+23,Michigan,1999,10.96
+24,Minnesota,1999,6.07
+25,Mississippi,1999,18.21
+26,Missouri,1999,12.78
+27,Montana,1999,13.7
+28,Nebraska,1999,8.56
+29,Nevada,1999,19.38
+30,New Hampshire,1999,5.81
+31,New Jersey,1999,4.38
+32,New Mexico,1999,16.04
+33,New York,1999,5.38
+34,North Carolina,1999,13.3
+35,North Dakota,1999,7.61
+36,Ohio,1999,8.28
+37,Oklahoma,1999,14.81
+38,Oregon,1999,11.46
+39,Pennsylvania,1999,9.7
+40,Rhode Island,1999,5.38
+41,South Carolina,1999,13.89
+42,South Dakota,1999,9.73
+43,Tennessee,1999,15.04
+44,Texas,1999,10.3
+45,Utah,1999,8.71
+46,Vermont,1999,9.43
+47,Virginia,1999,11.76
+48,Washington,1999,10.01
+49,West Virginia,1999,13.8
+50,Wisconsin,1999,8.4
+51,Wyoming,1999,15.05
+1,Alabama,2000,17.22
+2,Alaska,2000,18.5
+3,Arizona,2000,15.51
+4,Arkansas,2000,15.56
+5,California,2000,9.18
+6,Colorado,2000,10.3
+7,Connecticut,2000,5.26
+8,Delaware,2000,6.64
+9,District of Columbia,2000,26.05
+10,Florida,2000,10.59
+11,Georgia,2000,13.39
+12,Hawaii,2000,4.29
+13,Idaho,2000,9.81
+14,Illinois,2000,9.1
+15,Indiana,2000,10.95
+16,Iowa,2000,6.49
+17,Kansas,2000,11.12
+18,Kentucky,2000,13.41
+19,Louisiana,2000,17.68
+20,Maine,2000,8.78
+21,Maryland,2000,11.65
+22,Massachusetts,2000,2.77
+23,Michigan,2000,10.78
+24,Minnesota,2000,6.34
+25,Mississippi,2000,16.56
+26,Missouri,2000,13.26
+27,Montana,2000,14.85
+28,Nebraska,2000,9.82
+29,Nevada,2000,17.06
+30,New Hampshire,2000,6.39
+31,New Jersey,2000,4.05
+32,New Mexico,2000,16
+33,New York,2000,5.76
+34,North Carolina,2000,13.83
+35,North Dakota,2000,6.7
+36,Ohio,2000,7.84
+37,Oklahoma,2000,13.16
+38,Oregon,2000,11.05
+39,Pennsylvania,2000,10.23
+40,Rhode Island,2000,5.15
+41,South Carolina,2000,12.44
+42,South Dakota,2000,7.42
+43,Tennessee,2000,15.78
+44,Texas,2000,10.4
+45,Utah,2000,8.64
+46,Vermont,2000,9.03
+47,Virginia,2000,11.22
+48,Washington,2000,8.87
+49,West Virginia,2000,13.38
+50,Wisconsin,2000,8.05
+51,Wyoming,2000,11.75
+1,Alabama,2001,16.5
+2,Alaska,2001,14.99
+3,Arizona,2001,15.97
+4,Arkansas,2001,15.31
+5,California,2001,9.28
+6,Colorado,2001,11.52
+7,Connecticut,2001,5.56
+8,Delaware,2001,9.55
+9,District of Columbia,2001,29.42
+10,Florida,2001,11.1
+11,Georgia,2001,13.42
+12,Hawaii,2001,3.83
+13,Idaho,2001,13.26
+14,Illinois,2001,10.32
+15,Indiana,2001,11.9
+16,Iowa,2001,6.51
+17,Kansas,2001,9.88
+18,Kentucky,2001,12.88
+19,Louisiana,2001,17.44
+20,Maine,2001,7.62
+21,Maryland,2001,11.29
+22,Massachusetts,2001,3.03
+23,Michigan,2001,10.78
+24,Minnesota,2001,6.5
+25,Mississippi,2001,17.6
+26,Missouri,2001,13.19
+27,Montana,2001,17.64
+28,Nebraska,2001,8.14
+29,Nevada,2001,16.44
+30,New Hampshire,2001,7.25
+31,New Jersey,2001,4.36
+32,New Mexico,2001,14.96
+33,New York,2001,5.6
+34,North Carolina,2001,13.31
+35,North Dakota,2001,7.35
+36,Ohio,2001,9.04
+37,Oklahoma,2001,14.1
+38,Oregon,2001,10.32
+39,Pennsylvania,2001,9.53
+40,Rhode Island,2001,4.35
+41,South Carolina,2001,13.87
+42,South Dakota,2001,7.12
+43,Tennessee,2001,14.69
+44,Texas,2001,11.02
+45,Utah,2001,10.03
+46,Vermont,2001,8.33
+47,Virginia,2001,10.71
+48,Washington,2001,8.52
+49,West Virginia,2001,13.93
+50,Wisconsin,2001,8.79
+51,Wyoming,2001,14.15
+1,Alabama,2002,16.16
+2,Alaska,2002,19.77
+3,Arizona,2002,17.94
+4,Arkansas,2002,16.3
+5,California,2002,9.78
+6,Colorado,2002,11.51
+7,Connecticut,2002,4.25
+8,Delaware,2002,9.18
+9,District of Columbia,2002,34.02
+10,Florida,2002,11.3
+11,Georgia,2002,13.32
+12,Hawaii,2002,2.9
+13,Idaho,2002,12.16
+14,Illinois,2002,9.83
+15,Indiana,2002,11.74
+16,Iowa,2002,6.85
+17,Kansas,2002,9.88
+18,Kentucky,2002,13.3
+19,Louisiana,2002,19.48
+20,Maine,2002,6.79
+21,Maryland,2002,11.3
+22,Massachusetts,2002,3.18
+23,Michigan,2002,10.9
+24,Minnesota,2002,6.1
+25,Mississippi,2002,17.21
+26,Missouri,2002,12.26
+27,Montana,2002,14.7
+28,Nebraska,2002,8.1
+29,Nevada,2002,17.02
+30,New Hampshire,2002,5.99
+31,New Jersey,2002,4.85
+32,New Mexico,2002,16.39
+33,New York,2002,5.19
+34,North Carolina,2002,13.64
+35,North Dakota,2002,9.09
+36,Ohio,2002,9.37
+37,Oklahoma,2002,12.95
+38,Oregon,2002,10.64
+39,Pennsylvania,2002,9.89
+40,Rhode Island,2002,5.16
+41,South Carolina,2002,13.78
+42,South Dakota,2002,8.03
+43,Tennessee,2002,15.61
+44,Texas,2002,10.61
+45,Utah,2002,8.9
+46,Vermont,2002,10.07
+47,Virginia,2002,11.06
+48,Washington,2002,9.38
+49,West Virginia,2002,15.01
+50,Wisconsin,2002,8.19
+51,Wyoming,2002,19
+1,Alabama,2003,16.99
+2,Alaska,2003,18.51
+3,Arizona,2003,15.41
+4,Arkansas,2003,15.16
+5,California,2003,9.84
+6,Colorado,2003,11.06
+7,Connecticut,2003,4.39
+8,Delaware,2003,7.95
+9,District of Columbia,2003,29.38
+10,Florida,2003,11.41
+11,Georgia,2003,13.6
+12,Hawaii,2003,2.96
+13,Idaho,2003,12.03
+14,Illinois,2003,9.13
+15,Indiana,2003,11.23
+16,Iowa,2003,7.07
+17,Kansas,2003,11.16
+18,Kentucky,2003,13.6
+19,Louisiana,2003,18.73
+20,Maine,2003,6.28
+21,Maryland,2003,11.79
+22,Massachusetts,2003,3.18
+23,Michigan,2003,10.26
+24,Minnesota,2003,6.57
+25,Mississippi,2003,16.63
+26,Missouri,2003,11.51
+27,Montana,2003,15.77
+28,Nebraska,2003,7.71
+29,Nevada,2003,16.63
+30,New Hampshire,2003,6.95
+31,New Jersey,2003,5.32
+32,New Mexico,2003,17.36
+33,New York,2003,5.39
+34,North Carolina,2003,12.53
+35,North Dakota,2003,9.08
+36,Ohio,2003,8.17
+37,Oklahoma,2003,12.81
+38,Oregon,2003,11.13
+39,Pennsylvania,2003,9.94
+40,Rhode Island,2003,3.27
+41,South Carolina,2003,14.29
+42,South Dakota,2003,9.95
+43,Tennessee,2003,14.31
+44,Texas,2003,11.04
+45,Utah,2003,9.75
+46,Vermont,2003,7.77
+47,Virginia,2003,11.01
+48,Washington,2003,9.26
+49,West Virginia,2003,14.62
+50,Wisconsin,2003,8.54
+51,Wyoming,2003,17.68
+1,Alabama,2004,14.99
+2,Alaska,2004,17.75
+3,Arizona,2004,15.87
+4,Arkansas,2004,14.77
+5,California,2004,9.32
+6,Colorado,2004,12.09
+7,Connecticut,2004,4.95
+8,Delaware,2004,9.03
+9,District of Columbia,2004,25.19
+10,Florida,2004,10.85
+11,Georgia,2004,12.11
+12,Hawaii,2004,3.22
+13,Idaho,2004,12.72
+14,Illinois,2004,7.9
+15,Indiana,2004,10.25
+16,Iowa,2004,6.6
+17,Kansas,2004,10.75
+18,Kentucky,2004,13.29
+19,Louisiana,2004,19.81
+20,Maine,2004,8.22
+21,Maryland,2004,11.83
+22,Massachusetts,2004,3.21
+23,Michigan,2004,10.42
+24,Minnesota,2004,7.13
+25,Mississippi,2004,16.3
+26,Missouri,2004,11.55
+27,Montana,2004,13.44
+28,Nebraska,2004,6.8
+29,Nevada,2004,16.71
+30,New Hampshire,2004,5.35
+31,New Jersey,2004,5.26
+32,New Mexico,2004,15.18
+33,New York,2004,4.96
+34,North Carolina,2004,12.33
+35,North Dakota,2004,7.76
+36,Ohio,2004,9.05
+37,Oklahoma,2004,12.96
+38,Oregon,2004,10.79
+39,Pennsylvania,2004,10.23
+40,Rhode Island,2004,3.82
+41,South Carolina,2004,13.63
+42,South Dakota,2004,9.99
+43,Tennessee,2004,14.7
+44,Texas,2004,10.46
+45,Utah,2004,9.37
+46,Vermont,2004,9.84
+47,Virginia,2004,10.93
+48,Washington,2004,9.21
+49,West Virginia,2004,13.93
+50,Wisconsin,2004,7.49
+51,Wyoming,2004,11
+1,Alabama,2005,16.11
+2,Alaska,2005,17.39
+3,Arizona,2005,16
+4,Arkansas,2005,15.79
+5,California,2005,9.64
+6,Colorado,2005,11.55
+7,Connecticut,2005,5.33
+8,Delaware,2005,8.87
+9,District of Columbia,2005,27.15
+10,Florida,2005,10.3
+11,Georgia,2005,11.92
+12,Hawaii,2005,2.17
+13,Idaho,2005,13.65
+14,Illinois,2005,8.08
+15,Indiana,2005,11.23
+16,Iowa,2005,6.78
+17,Kansas,2005,9.36
+18,Kentucky,2005,13.1
+19,Louisiana,2005,18.75
+20,Maine,2005,8.27
+21,Maryland,2005,11.75
+22,Massachusetts,2005,3.5
+23,Michigan,2005,10.69
+24,Minnesota,2005,7.05
+25,Mississippi,2005,15.66
+26,Missouri,2005,12.99
+27,Montana,2005,17.13
+28,Nebraska,2005,7.66
+29,Nevada,2005,16.04
+30,New Hampshire,2005,6.78
+31,New Jersey,2005,5.02
+32,New Mexico,2005,13.82
+33,New York,2005,5.33
+34,North Carolina,2005,12.85
+35,North Dakota,2005,9.44
+36,Ohio,2005,9.74
+37,Oklahoma,2005,13.19
+38,Oregon,2005,11.13
+39,Pennsylvania,2005,10.86
+40,Rhode Island,2005,3.65
+41,South Carolina,2005,13.79
+42,South Dakota,2005,10.57
+43,Tennessee,2005,16.29
+44,Texas,2005,10.93
+45,Utah,2005,9.24
+46,Vermont,2005,7.08
+47,Virginia,2005,11.72
+48,Washington,2005,9.06
+49,West Virginia,2005,14.34
+50,Wisconsin,2005,8.55
+51,Wyoming,2005,13.81
+1,Alabama,2006,16.85
+2,Alaska,2006,16.44
+3,Arizona,2006,16.29
+4,Arkansas,2006,15.1
+5,California,2006,9.34
+6,Colorado,2006,10.53
+7,Connecticut,2006,4.92
+8,Delaware,2006,9.19
+9,District of Columbia,2006,23.48
+10,Florida,2006,11.47
+11,Georgia,2006,12.49
+12,Hawaii,2006,2.52
+13,Idaho,2006,12.26
+14,Illinois,2006,8.19
+15,Indiana,2006,11.72
+16,Iowa,2006,6.47
+17,Kansas,2006,10.82
+18,Kentucky,2006,12.59
+19,Louisiana,2006,19.31
+20,Maine,2006,7.93
+21,Maryland,2006,12.05
+22,Massachusetts,2006,3.29
+23,Michigan,2006,11.53
+24,Minnesota,2006,6.37
+25,Mississippi,2006,16.35
+26,Missouri,2006,13.13
+27,Montana,2006,12.6
+28,Nebraska,2006,7.95
+29,Nevada,2006,16.05
+30,New Hampshire,2006,6.27
+31,New Jersey,2006,5.68
+32,New Mexico,2006,14.42
+33,New York,2006,5.24
+34,North Carolina,2006,12.71
+35,North Dakota,2006,7.08
+36,Ohio,2006,9.7
+37,Oklahoma,2006,13.41
+38,Oregon,2006,10.46
+39,Pennsylvania,2006,10.96
+40,Rhode Island,2006,4.42
+41,South Carolina,2006,14.14
+42,South Dakota,2006,9.83
+43,Tennessee,2006,15.49
+44,Texas,2006,10.37
+45,Utah,2006,8.87
+46,Vermont,2006,8.67
+47,Virginia,2006,10.63
+48,Washington,2006,8.57
+49,West Virginia,2006,13.84
+50,Wisconsin,2006,7.6
+51,Wyoming,2006,15.31
+1,Alabama,2007,17.38
+2,Alaska,2007,17.64
+3,Arizona,2007,15.42
+4,Arkansas,2007,14.95
+5,California,2007,9.02
+6,Colorado,2007,10.51
+7,Connecticut,2007,4.22
+8,Delaware,2007,9.06
+9,District of Columbia,2007,25.07
+10,Florida,2007,12.37
+11,Georgia,2007,13.3
+12,Hawaii,2007,2.74
+13,Idaho,2007,12.42
+14,Illinois,2007,8.13
+15,Indiana,2007,10.5
+16,Iowa,2007,5.23
+17,Kansas,2007,10.49
+18,Kentucky,2007,14.38
+19,Louisiana,2007,19.86
+20,Maine,2007,8.06
+21,Maryland,2007,11.99
+22,Massachusetts,2007,3.65
+23,Michigan,2007,10.95
+24,Minnesota,2007,6.61
+25,Mississippi,2007,18.27
+26,Missouri,2007,12.89
+27,Montana,2007,14.41
+28,Nebraska,2007,7.96
+29,Nevada,2007,15.92
+30,New Hampshire,2007,5.94
+31,New Jersey,2007,5.14
+32,New Mexico,2007,14.82
+33,New York,2007,5.15
+34,North Carolina,2007,12.24
+35,North Dakota,2007,8.73
+36,Ohio,2007,9.61
+37,Oklahoma,2007,13.26
+38,Oregon,2007,10.4
+39,Pennsylvania,2007,10.55
+40,Rhode Island,2007,3.5
+41,South Carolina,2007,13.32
+42,South Dakota,2007,6.57
+43,Tennessee,2007,14.96
+44,Texas,2007,10.75
+45,Utah,2007,9.74
+46,Vermont,2007,8.34
+47,Virginia,2007,10.64
+48,Washington,2007,8.48
+49,West Virginia,2007,14.56
+50,Wisconsin,2007,8.7
+51,Wyoming,2007,14.21
+1,Alabama,2008,17.38
+2,Alaska,2008,20.66
+3,Arizona,2008,14.44
+4,Arkansas,2008,15.45
+5,California,2008,8.66
+6,Colorado,2008,10.49
+7,Connecticut,2008,5.64
+8,Delaware,2008,10.75
+9,District of Columbia,2008,23.61
+10,Florida,2008,12.6
+11,Georgia,2008,12.38
+12,Hawaii,2008,3.08
+13,Idaho,2008,11.41
+14,Illinois,2008,8.67
+15,Indiana,2008,11.25
+16,Iowa,2008,7.43
+17,Kansas,2008,9.86
+18,Kentucky,2008,13.43
+19,Louisiana,2008,18.53
+20,Maine,2008,9.17
+21,Maryland,2008,11.7
+22,Massachusetts,2008,3.46
+23,Michigan,2008,10.87
+24,Minnesota,2008,7.07
+25,Mississippi,2008,19.27
+26,Missouri,2008,13.81
+27,Montana,2008,15.87
+28,Nebraska,2008,8.35
+29,Nevada,2008,15.22
+30,New Hampshire,2008,7.07
+31,New Jersey,2008,4.92
+32,New Mexico,2008,14.62
+33,New York,2008,5.01
+34,North Carolina,2008,12.46
+35,North Dakota,2008,8.97
+36,Ohio,2008,9.68
+37,Oklahoma,2008,13.98
+38,Oregon,2008,10.22
+39,Pennsylvania,2008,10.66
+40,Rhode Island,2008,4.17
+41,South Carolina,2008,13.58
+42,South Dakota,2008,10.39
+43,Tennessee,2008,15.77
+44,Texas,2008,10.69
+45,Utah,2008,8.94
+46,Vermont,2008,8.65
+47,Virginia,2008,10.43
+48,Washington,2008,8.95
+49,West Virginia,2008,12.99
+50,Wisconsin,2008,7.85
+51,Wyoming,2008,17.03
+1,Alabama,2009,17.44
+2,Alaska,2009,14.88
+3,Arizona,2009,13.49
+4,Arkansas,2009,16.05
+5,California,2009,8.37
+6,Colorado,2009,11.73
+7,Connecticut,2009,4.86
+8,Delaware,2009,8.52
+9,District of Columbia,2009,18.74
+10,Florida,2009,12.46
+11,Georgia,2009,12.96
+12,Hawaii,2009,3.49
+13,Idaho,2009,12.61
+14,Illinois,2009,8.27
+15,Indiana,2009,11.38
+16,Iowa,2009,6.36
+17,Kansas,2009,10.7
+18,Kentucky,2009,12.97
+19,Louisiana,2009,18.03
+20,Maine,2009,9.18
+21,Maryland,2009,10.23
+22,Massachusetts,2009,3.18
+23,Michigan,2009,11.06
+24,Minnesota,2009,6.36
+25,Mississippi,2009,16.46
+26,Missouri,2009,13.79
+27,Montana,2009,16.87
+28,Nebraska,2009,7.28
+29,Nevada,2009,15.12
+30,New Hampshire,2009,6.76
+31,New Jersey,2009,4.69
+32,New Mexico,2009,14.68
+33,New York,2009,4.96
+34,North Carolina,2009,11.77
+35,North Dakota,2009,8.87
+36,Ohio,2009,8.6
+37,Oklahoma,2009,14.34
+38,Oregon,2009,10.95
+39,Pennsylvania,2009,10.65
+40,Rhode Island,2009,5.31
+41,South Carolina,2009,13.81
+42,South Dakota,2009,9.29
+43,Tennessee,2009,15.32
+44,Texas,2009,10.85
+45,Utah,2009,9.55
+46,Vermont,2009,9.6
+47,Virginia,2009,10.55
+48,Washington,2009,9.34
+49,West Virginia,2009,13.58
+50,Wisconsin,2009,8.06
+51,Wyoming,2009,17.15
+1,Alabama,2010,16.36
+2,Alaska,2010,20.28
+3,Arizona,2010,14.57
+4,Arkansas,2010,14.37
+5,California,2010,7.88
+6,Colorado,2010,11.04
+7,Connecticut,2010,5.85
+8,Delaware,2010,9.8
+9,District of Columbia,2010,16.45
+10,Florida,2010,12.06
+11,Georgia,2010,12.62
+12,Hawaii,2010,3.31
+13,Idaho,2010,12.63
+14,Illinois,2010,8.29
+15,Indiana,2010,10.93
+16,Iowa,2010,6.99
+17,Kansas,2010,10.51
+18,Kentucky,2010,12.79
+19,Louisiana,2010,19.06
+20,Maine,2010,8.51
+21,Maryland,2010,9.32
+22,Massachusetts,2010,4.12
+23,Michigan,2010,10.89
+24,Minnesota,2010,6.88
+25,Mississippi,2010,16.01
+26,Missouri,2010,14.13
+27,Montana,2010,16.58
+28,Nebraska,2010,8.32
+29,Nevada,2010,14.63
+30,New Hampshire,2010,8.96
+31,New Jersey,2010,5.19
+32,New Mexico,2010,14.62
+33,New York,2010,5.22
+34,North Carolina,2010,11.78
+35,North Dakota,2010,9.66
+36,Ohio,2010,9.95
+37,Oklahoma,2010,14.34
+38,Oregon,2010,11.95
+39,Pennsylvania,2010,10.29
+40,Rhode Island,2010,4.66
+41,South Carolina,2010,14.01
+42,South Dakota,2010,9.21
+43,Tennessee,2010,14.69
+44,Texas,2010,10.79
+45,Utah,2010,11.36
+46,Vermont,2010,11.19
+47,Virginia,2010,10.94
+48,Washington,2010,9.06
+49,West Virginia,2010,14.73
+50,Wisconsin,2010,8.81
+51,Wyoming,2010,16.32
+1,Alabama,2011,16.35
+2,Alaska,2011,17.44
+3,Arizona,2011,14.89
+4,Arkansas,2011,15.72
+5,California,2011,7.97
+6,Colorado,2011,11.19
+7,Connecticut,2011,5.85
+8,Delaware,2011,8.48
+9,District of Columbia,2011,13.86
+10,Florida,2011,12.45
+11,Georgia,2011,12.55
+12,Hawaii,2011,3.56
+13,Idaho,2011,12.12
+14,Illinois,2011,8.66
+15,Indiana,2011,9.79
+16,Iowa,2011,7.18
+17,Kansas,2011,11.46
+18,Kentucky,2011,14.12
+19,Louisiana,2011,18.9
+20,Maine,2011,10.24
+21,Maryland,2011,9.27
+22,Massachusetts,2011,3.84
+23,Michigan,2011,11.71
+24,Minnesota,2011,7.4
+25,Mississippi,2011,17.79
+26,Missouri,2011,14.21
+27,Montana,2011,16.74
+28,Nebraska,2011,8.74
+29,Nevada,2011,13.83
+30,New Hampshire,2011,6.98
+31,New Jersey,2011,5.45
+32,New Mexico,2011,14.72
+33,New York,2011,5.11
+34,North Carolina,2011,11.96
+35,North Dakota,2011,8.9
+36,Ohio,2011,10.63
+37,Oklahoma,2011,16.59
+38,Oregon,2011,10.86
+39,Pennsylvania,2011,11.28
+40,Rhode Island,2011,3.14
+41,South Carolina,2011,15.09
+42,South Dakota,2011,8.61
+43,Tennessee,2011,14.82
+44,Texas,2011,10.13
+45,Utah,2011,10.94
+46,Vermont,2011,12.45
+47,Virginia,2011,10.7
+48,Washington,2011,9.15
+49,West Virginia,2011,14.99
+50,Wisconsin,2011,7.8
+51,Wyoming,2011,16.91
+1,Alabama,2012,17.25
+2,Alaska,2012,18.06
+3,Arizona,2012,14.43
+4,Arkansas,2012,16.61
+5,California,2012,8.06
+6,Colorado,2012,12.94
+7,Connecticut,2012,6.32
+8,Delaware,2012,10.47
+9,District of Columbia,2012,10.71
+10,Florida,2012,12.78
+11,Georgia,2012,12.97
+12,Hawaii,2012,3.66
+13,Idaho,2012,12.97
+14,Illinois,2012,9.15
+15,Indiana,2012,12.24
+16,Iowa,2012,7.05
+17,Kansas,2012,13.06
+18,Kentucky,2012,14.94
+19,Louisiana,2012,18.35
+20,Maine,2012,9.78
+21,Maryland,2012,10
+22,Massachusetts,2012,3.5
+23,Michigan,2012,12.36
+24,Minnesota,2012,7.1
+25,Mississippi,2012,17.92
+26,Missouri,2012,14.64
+27,Montana,2012,17.01
+28,Nebraska,2012,9
+29,Nevada,2012,13.07
+30,New Hampshire,2012,8.85
+31,New Jersey,2012,5
+32,New Mexico,2012,15.49
+33,New York,2012,4.98
+34,North Carolina,2012,12.05
+35,North Dakota,2012,10.4
+36,Ohio,2012,10.93
+37,Oklahoma,2012,16.22
+38,Oregon,2012,11.36
+39,Pennsylvania,2012,11.38
+40,Rhode Island,2012,3.99
+41,South Carolina,2012,15.73
+42,South Dakota,2012,10.07
+43,Tennessee,2012,15.41
+44,Texas,2012,10.51
+45,Utah,2012,11.35
+46,Vermont,2012,8.94
+47,Virginia,2012,10.25
+48,Washington,2012,9.87
+49,West Virginia,2012,14.98
+50,Wisconsin,2012,8.44
+51,Wyoming,2012,20.28
+1,Alabama,2013,17.79
+2,Alaska,2013,19.53
+3,Arizona,2013,14.18
+4,Arkansas,2013,16.93
+5,California,2013,7.87
+6,Colorado,2013,11.74
+7,Connecticut,2013,4.47
+8,Delaware,2013,10.81
+9,District of Columbia,2013,10.94
+10,Florida,2013,12.46
+11,Georgia,2013,12.63
+12,Hawaii,2013,2.7
+13,Idaho,2013,14.07
+14,Illinois,2013,8.67
+15,Indiana,2013,13.04
+16,Iowa,2013,8.18
+17,Kansas,2013,11.43
+18,Kentucky,2013,14.14
+19,Louisiana,2013,19.14
+20,Maine,2013,11.89
+21,Maryland,2013,9.73
+22,Massachusetts,2013,3.17
+23,Michigan,2013,12.02
+24,Minnesota,2013,7.88
+25,Mississippi,2013,17.55
+26,Missouri,2013,14.56
+27,Montana,2013,16.95
+28,Nebraska,2013,8.99
+29,Nevada,2013,14.15
+30,New Hampshire,2013,7.03
+31,New Jersey,2013,5.68
+32,New Mexico,2013,15.62
+33,New York,2013,4.38
+34,North Carolina,2013,12.42
+35,North Dakota,2013,11.88
+36,Ohio,2013,11.14
+37,Oklahoma,2013,16.4
+38,Oregon,2013,11.76
+39,Pennsylvania,2013,11.35
+40,Rhode Island,2013,5.32
+41,South Carolina,2013,15.61
+42,South Dakota,2013,9.46
+43,Tennessee,2013,15.85
+44,Texas,2013,10.48
+45,Utah,2013,11.68
+46,Vermont,2013,10.37
+47,Virginia,2013,10.45
+48,Washington,2013,9.06
+49,West Virginia,2013,15.11
+50,Wisconsin,2013,9.93
+51,Wyoming,2013,17.49
+1,Alabama,2014,16.81
+2,Alaska,2014,19.68
+3,Arizona,2014,13.77
+4,Arkansas,2014,16.72
+5,California,2014,7.58
+6,Colorado,2014,12.38
+7,Connecticut,2014,5.2
+8,Delaware,2014,10.9
+9,District of Columbia,2014,13.05
+10,Florida,2014,12.11
+11,Georgia,2014,13.78
+12,Hawaii,2014,2.82
+13,Idaho,2014,13.03
+14,Illinois,2014,9.15
+15,Indiana,2014,12.4
+16,Iowa,2014,7.76
+17,Kansas,2014,11.33
+18,Kentucky,2014,14.37
+19,Louisiana,2014,19.27
+20,Maine,2014,10
+21,Maryland,2014,9.14
+22,Massachusetts,2014,3.37
+23,Michigan,2014,11.05
+24,Minnesota,2014,6.91
+25,Mississippi,2014,18.27
+26,Missouri,2014,15.55
+27,Montana,2014,16.8
+28,Nebraska,2014,9.51
+29,Nevada,2014,15.11
+30,New Hampshire,2014,9.19
+31,New Jersey,2014,5.24
+32,New Mexico,2014,16.3
+33,New York,2014,4.43
+34,North Carolina,2014,12.13
+35,North Dakota,2014,12.98
+36,Ohio,2014,10.44
+37,Oklahoma,2014,15.76
+38,Oregon,2014,12.52
+39,Pennsylvania,2014,10.87
+40,Rhode Island,2014,3.22
+41,South Carolina,2014,15.87
+42,South Dakota,2014,10.43
+43,Tennessee,2014,15.57
+44,Texas,2014,10.56
+45,Utah,2014,11.45
+46,Vermont,2014,11.01
+47,Virginia,2014,10.68
+48,Washington,2014,9.94
+49,West Virginia,2014,15.46
+50,Wisconsin,2014,8.46
+51,Wyoming,2014,15.92

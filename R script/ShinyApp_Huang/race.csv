@@ -1,0 +1,183 @@
+Id,Code,State,Race,Deaths,Population,CrudeRate
+1,AL,Alabama,Am Indian/AK Native,24,501106,4.79
+2,AK,Alaska,Am Indian/AK Native,576,1850447,31.13
+3,AZ,Arizona,Am Indian/AK Native,622,5269874,11.8
+4,AR,Arkansas,Am Indian/AK Native,15,409409,3.66
+5,CA,California,Am Indian/AK Native,361,9994351,3.61
+6,CO,Colorado,Am Indian/AK Native,94,1254491,7.49
+10,FL,Florida,Am Indian/AK Native,36,1419640,2.54
+11,GA,Georgia,Am Indian/AK Native,41,683474,6
+13,ID,Idaho,Am Indian/AK Native,52,419962,12.38
+14,IL,Illinois,Am Indian/AK Native,16,1094674,1.46
+15,IN,Indiana,Am Indian/AK Native,10,402583,2.48
+17,KS,Kansas,Am Indian/AK Native,43,584919,7.35
+19,LA,Louisiana,Am Indian/AK Native,22,527974,4.17
+20,ME,Maine,Am Indian/AK Native,14,153688,9.11
+21,MD,Maryland,Am Indian/AK Native,21,477990,4.39
+23,MI,Michigan,Am Indian/AK Native,94,1296003,7.25
+24,MN,Minnesota,Am Indian/AK Native,125,1158327,10.79
+25,MS,Mississippi,Am Indian/AK Native,19,249067,7.63
+26,MO,Missouri,Am Indian/AK Native,29,577323,5.02
+27,MT,Montana,Am Indian/AK Native,164,1055437,15.54
+28,NE,Nebraska,Am Indian/AK Native,28,360672,7.76
+29,NV,Nevada,Am Indian/AK Native,74,693220,10.67
+31,NJ,New Jersey,Am Indian/AK Native,10,742617,1.35
+32,NM,New Mexico,Am Indian/AK Native,311,3320035,9.37
+33,NY,New York,Am Indian/AK Native,35,2830198,1.24
+34,NC,North Carolina,Am Indian/AK Native,337,2198460,15.33
+35,ND,North Dakota,Am Indian/AK Native,56,591879,9.46
+36,OH,Ohio,Am Indian/AK Native,15,581096,2.58
+37,OK,Oklahoma,Am Indian/AK Native,605,5731226,10.56
+38,OR,Oregon,Am Indian/AK Native,90,1148581,7.84
+39,PA,Pennsylvania,Am Indian/AK Native,10,611168,1.64
+41,SC,South Carolina,Am Indian/AK Native,26,356597,7.29
+42,SD,South Dakota,Am Indian/AK Native,110,1162279,9.46
+43,TN,Tennessee,Am Indian/AK Native,13,384852,3.38
+44,TX,Texas,Am Indian/AK Native,58,3574049,1.62
+45,UT,Utah,Am Indian/AK Native,55,656315,8.38
+47,VA,Virginia,Am Indian/AK Native,20,613637,3.26
+48,WA,Washington,Am Indian/AK Native,235,2152626,10.92
+50,WI,Wisconsin,Am Indian/AK Native,79,993969,7.95
+51,WY,Wyoming,Am Indian/AK Native,24,231597,10.36
+1,AL,Alabama,Asian/Pac Islander,28,868875,3.22
+2,AK,Alaska,Asian/Pac Islander,55,708348,7.76
+3,AZ,Arizona,Asian/Pac Islander,122,2974557,4.1
+4,AR,Arkansas,Asian/Pac Islander,30,621868,4.82
+5,CA,California,Asian/Pac Islander,2513,81183084,3.1
+6,CO,Colorado,Asian/Pac Islander,89,2432044,3.66
+7,CT,Connecticut,Asian/Pac Islander,23,2110071,1.09
+8,DE,Delaware,Asian/Pac Islander,10,436994,2.29
+9,DC,District of Columbia,Asian/Pac Islander,11,351433,3.13
+10,FL,Florida,Asian/Pac Islander,257,7509561,3.42
+11,GA,Georgia,Asian/Pac Islander,251,4789016,5.24
+12,HI,Hawaii,Asian/Pac Islander,330,13954333,2.36
+13,ID,Idaho,Asian/Pac Islander,19,355301,5.35
+14,IL,Illinois,Asian/Pac Islander,94,9344451,1.01
+15,IN,Indiana,Asian/Pac Islander,44,1634721,2.69
+16,IA,Iowa,Asian/Pac Islander,20,861638,2.32
+17,KS,Kansas,Asian/Pac Islander,43,1119644,3.84
+18,KY,Kentucky,Asian/Pac Islander,24,800302,3
+19,LA,Louisiana,Asian/Pac Islander,83,1175050,7.06
+21,MD,Maryland,Asian/Pac Islander,118,5019775,2.35
+22,MA,Massachusetts,Asian/Pac Islander,48,5510935,0.87
+23,MI,Michigan,Asian/Pac Islander,92,3989832,2.31
+24,MN,Minnesota,Asian/Pac Islander,121,3327641,3.64
+25,MS,Mississippi,Asian/Pac Islander,39,432922,9.01
+26,MO,Missouri,Asian/Pac Islander,58,1629472,3.56
+28,NE,Nebraska,Asian/Pac Islander,12,544381,2.2
+29,NV,Nevada,Asian/Pac Islander,141,3148663,4.48
+31,NJ,New Jersey,Asian/Pac Islander,79,11103480,0.71
+32,NM,New Mexico,Asian/Pac Islander,24,534771,4.49
+33,NY,New York,Asian/Pac Islander,215,22926684,0.94
+34,NC,North Carolina,Asian/Pac Islander,134,3255235,4.12
+36,OH,Ohio,Asian/Pac Islander,87,3160290,2.75
+37,OK,Oklahoma,Asian/Pac Islander,61,1140850,5.35
+38,OR,Oregon,Asian/Pac Islander,94,2571888,3.65
+39,PA,Pennsylvania,Asian/Pac Islander,159,5355488,2.97
+40,RI,Rhode Island,Asian/Pac Islander,16,536749,2.98
+41,SC,South Carolina,Asian/Pac Islander,53,974376,5.44
+43,TN,Tennessee,Asian/Pac Islander,79,1488001,5.31
+44,TX,Texas,Asian/Pac Islander,606,15006233,4.04
+45,UT,Utah,Asian/Pac Islander,55,1313141,4.19
+47,VA,Virginia,Asian/Pac Islander,178,6790598,2.62
+48,WA,Washington,Asian/Pac Islander,311,8309885,3.74
+50,WI,Wisconsin,Asian/Pac Islander,95,2042062,4.65
+1,AL,Alabama,Black,4249,19787185,21.47
+2,AK,Alaska,Black,76,486970,15.61
+3,AZ,Arizona,Black,812,4277552,18.98
+4,AR,Arkansas,Black,1593,7216858,22.07
+5,CA,California,Black,9700,42369154,22.89
+6,CO,Colorado,Black,525,3608713,14.55
+7,CT,Connecticut,Black,780,6274548,12.43
+8,DE,Delaware,Black,439,3004161,14.61
+9,DC,District of Columbia,Black,1950,5317597,36.67
+10,FL,Florida,Black,7701,47278547,16.29
+11,GA,Georgia,Black,6658,45134092,14.75
+12,HI,Hawaii,Black,12,565140,2.12
+13,ID,Idaho,Black,12,205192,5.85
+14,IL,Illinois,Black,8161,31214330,26.15
+15,IN,Indiana,Black,2878,9666134,29.77
+16,IA,Iowa,Black,142,1499342,9.47
+17,KS,Kansas,Black,708,2953469,23.97
+18,KY,Kentucky,Black,994,5514868,18.02
+19,LA,Louisiana,Black,6634,23686077,28.01
+20,ME,Maine,Black,15,258597,5.8
+21,MD,Maryland,Black,5632,27211400,20.7
+22,MA,Massachusetts,Black,906,8064017,11.24
+23,MI,Michigan,Black,7178,23736350,30.24
+24,MN,Minnesota,Black,588,4359875,13.49
+25,MS,Mississippi,Black,3245,17383791,18.67
+26,MO,Missouri,Black,3587,11269277,31.83
+27,MT,Montana,Black,13,102188,12.72
+28,NE,Nebraska,Black,327,1414685,23.11
+29,NV,Nevada,Black,736,3515645,20.93
+31,NJ,New Jersey,Black,3232,20888057,15.47
+32,NM,New Mexico,Black,143,839001,17.04
+33,NY,New York,Black,6029,55993155,10.77
+34,NC,North Carolina,Black,4835,32202573,15.01
+35,ND,North Dakota,Black,10,147318,6.79
+36,OH,Ohio,Black,4915,23366771,21.03
+37,OK,Oklahoma,Black,1103,4872360,22.64
+38,OR,Oregon,Black,168,1364324,12.31
+39,PA,Pennsylvania,Black,6341,22877107,27.72
+40,RI,Rhode Island,Black,107,1254562,8.53
+41,SC,South Carolina,Black,3208,20508992,15.64
+42,SD,South Dakota,Black,13,183049,7.1
+43,TN,Tennessee,Black,3737,16780320,22.27
+44,TX,Texas,Black,6417,46766403,13.72
+45,UT,Utah,Black,41,564041,7.27
+47,VA,Virginia,Black,3861,25122720,15.37
+48,WA,Washington,Black,545,4541622,12
+49,WV,West Virginia,Black,188,1076507,17.46
+50,WI,Wisconsin,Black,1292,5899769,21.9
+1,AL,Alabama,White,8211,53132076,15.45
+2,AK,Alaska,White,1240,7836470,15.82
+3,AZ,Arizona,White,12957,82911988,15.63
+4,AR,Arkansas,White,5406,36900812,14.65
+5,CA,California,White,38306,445920851,8.59
+6,CO,Colorado,White,7983,69238491,11.53
+7,CT,Connecticut,White,2112,47617062,4.44
+8,DE,Delaware,White,825,10219210,8.07
+9,DC,District of Columbia,White,113,3752701,3.01
+10,FL,Florida,White,25773,231314684,11.14
+11,GA,Georgia,White,12013,95972543,12.52
+12,HI,Hawaii,White,317,6357635,4.99
+13,ID,Idaho,White,2844,22489721,12.65
+14,IL,Illinois,White,9630,161112430,5.98
+15,IN,Indiana,White,8598,89715966,9.58
+16,IA,Iowa,White,3129,45410477,6.89
+17,KS,Kansas,White,4001,39923464,10.02
+18,KY,Kentucky,White,8132,61155689,13.3
+19,LA,Louisiana,White,6782,46764264,14.5
+20,ME,Maine,White,1802,20385159,8.84
+21,MD,Maryland,White,4086,57412969,7.12
+22,MA,Massachusetts,White,2515,89767462,2.8
+23,MI,Michigan,White,10280,130305881,7.89
+24,MN,Minnesota,White,4787,74020519,6.47
+25,MS,Mississippi,White,4757,28640317,16.61
+26,MO,Missouri,White,8863,79993076,11.08
+27,MT,Montana,White,2224,14038807,15.84
+28,NE,Nebraska,White,2007,26233653,7.65
+29,NV,Nevada,White,5220,32141852,16.24
+30,NH,New Hampshire,White,1430,19921590,7.18
+31,NJ,New Jersey,White,3651,106139480,3.44
+32,NM,New Mexico,White,4330,26728294,16.2
+33,NY,New York,White,9527,226515261,4.21
+34,NC,North Carolina,White,12724,106082159,11.99
+35,ND,North Dakota,White,901,9792043,9.2
+36,OH,Ohio,White,12459,156550387,7.96
+37,OK,Oklahoma,White,6547,46379361,14.12
+38,OR,Oregon,White,6182,53908306,11.47
+39,PA,Pennsylvania,White,14609,171705278,8.51
+40,RI,Rhode Island,White,595,14983263,3.97
+41,SC,South Carolina,White,6715,48497162,13.85
+42,SD,South Dakota,White,1038,11214459,9.26
+43,TN,Tennessee,White,11092,79035416,14.03
+44,TX,Texas,White,33073,312938797,10.57
+45,UT,Utah,White,3949,38520915,10.25
+46,VT,Vermont,White,923,9641173,9.57
+47,VA,Virginia,White,9281,90542052,10.25
+48,WA,Washington,White,8348,87850934,9.5
+49,WV,West Virginia,White,4004,27942325,14.33
+50,WI,Wisconsin,White,5988,80271799,7.46
+51,WY,Wyoming,White,1324,8122977,16.3

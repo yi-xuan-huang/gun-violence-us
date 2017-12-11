@@ -1,0 +1,52 @@
+Id,Code,State,Rate
+1,AL,Alabama,16.84
+2,AK,Alaska,17.89
+3,AZ,Arizona,15.21
+4,AR,Arkansas,15.6
+5,CA,California,8.78
+6,CO,Colorado,11.36
+7,CT,Connecticut,5.18
+8,DE,Delaware,9.29
+9,DC,District of Columbia,21.91
+10,FL,Florida,11.74
+11,GA,Georgia,12.94
+12,HI,Hawaii,3.16
+13,ID,Idaho,12.47
+14,IL,Illinois,8.83
+15,IN,Indiana,11.37
+16,IA,Iowa,6.87
+17,KS,Kansas,10.76
+18,KY,Kentucky,13.53
+19,LA,Louisiana,18.74
+20,ME,Maine,8.74
+21,MD,Maryland,10.94
+22,MA,Massachusetts,3.35
+23,MI,Michigan,11.07
+24,MN,Minnesota,6.78
+25,MS,Mississippi,17.26
+26,MO,Missouri,13.41
+27,MT,Montana,15.72
+28,NE,Nebraska,8.31
+29,NV,Nevada,15.62
+30,NH,New Hampshire,6.99
+31,NJ,New Jersey,5.02
+32,NM,New Mexico,15.3
+33,NY,New York,5.13
+34,NC,North Carolina,12.54
+35,ND,North Dakota,9.1
+36,OH,Ohio,9.52
+37,OK,Oklahoma,14.31
+38,OR,Oregon,11.08
+39,PA,Pennsylvania,10.53
+40,RI,Rhode Island,4.28
+41,SC,South Carolina,14.22
+42,SD,South Dakota,9.18
+43,TN,Tennessee,15.27
+44,TX,Texas,10.61
+45,UT,Utah,9.99
+46,VT,Vermont,9.43
+47,VA,Virginia,10.84
+48,WA,Washington,9.18
+49,WV,West Virginia,14.33
+50,WI,Wisconsin,8.36
+51,WY,Wyoming,15.89

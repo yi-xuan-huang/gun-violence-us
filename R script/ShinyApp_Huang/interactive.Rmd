@@ -1,0 +1,148 @@
+---
+title: ""
+runtime: shiny
+output: 
+  html_document:
+    css: first.css
+  
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+#GUN DEATH TRENDS AND DISTRIBUTION
+##Deaths per 100,000 Persons by State, Race, and over Time
+```{r plot2, echo=FALSE, message=FALSE, warning=FALSE}
+library(shiny)
+library(plotly)
+library(ggplot2)
+library(dplyr)
+averagerate <- read.csv("results.csv")
+yearrate <- read.csv("rate-state-year-edited.csv")
+racerate <- read.csv("race.csv")
+
+ui <- fluidPage(
+  fluidRow(
+    column(8,
+    plotlyOutput("map", height = "200px", width = "100%"),
+    plotlyOutput("lineplot", width = "100%", height = "200px")       
+  ),
+  
+  column(4,
+        
+         plotlyOutput('pie', width = "100%", height = '400px'))
+))
+
+
+server <- function(input, output, session) {
+   
+   output$map <- renderPlotly({
+     g <- list(
+       scope = 'usa',
+       projection = list(type = 'albers usa'),
+       lakecolor = toRGB('white')
+     )
+     f1 <- list(family = "Times New Roman", size = 14)
+     plot_ly(z = averagerate$Rate, text = averagerate$State, 
+             locations = averagerate$Code,
+             color = averagerate$Rate, colors = 'OrRd',
+             type = 'choropleth', locationmode = 'USA-states',
+             source = 'A') %>%
+       colorbar(lenmode = "pixels", len = 80, 
+                thicknessmode='fraction', thinkness = 0.2 ) %>%
+       layout(title = 'Average Death Rate by State, 1999-2014 (click each state to see the breakdown)',titlefont = f1,
+              
+              geo = g
+              )
+   })
+   
+   output$lineplot <- renderPlotly({
+     e <- event_data("plotly_click", source = 'A')
+     stateid <- e[2]
+    
+     if (is.null(e) == FALSE ) {
+       yearrate1 <- subset(yearrate, yearrate$Id == as.numeric(stateid)+1)
+       f <- list(family = "Arial", size = 10)
+       f2 <- list(family = "Times New Roman", size = 14)
+       plot_ly(data = yearrate1, type = 'scatter',
+               mode = 'lines',
+               colors = "OrRd",
+               x = ~Year, 
+               y = ~Rate)  %>%
+         add_markers() %>%
+         layout(title = "Death Rate over Time, 1999-2014", 
+                titlefont = f2,
+           yaxis = list(title = "Death Rate",
+                        titlefont = f,
+                        range = c(0, 35)),
+           xaxis = list(title = ""),
+           showlegend = FALSE)
+      
+     } else {
+       plotly_empty()
+     }
+   })
+   
+   output$pie <- renderPlotly({
+     e1 <- event_data("plotly_click", source = 'A')
+     f3 <- list(family = "Arial", size = 10)
+     f4 <- list(family = "Times New Roman", size = 14)
+     stateid1 <- e1[2]
+     if (is.null(e1) == FALSE ) {
+       racerate1 <- subset(racerate, racerate$Id == as.numeric(stateid1)+1)
+       plot_ly(data = racerate1, labels = ~Race, values = ~CrudeRate 
+               ) %>%
+         add_pie(hole = 0.5, marker = list(colors =c("#8dd3c7","#ffffb3","#bebada","#fb8072"))) %>%
+         layout(title = "Average Death Rate by Race, 1999-2014",  
+                titlefont = f4,
+                showlegend = TRUE,
+                legend = list(x= 0.5, y = -150),
+         xaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE),
+         yaxis = list(showgrid = FALSE, zeroline = FALSE, showticklabels = FALSE))}
+     else{
+       plotly_empty()
+     }
+     })
+
+}
+
+ 
+shinyApp(ui = ui, server = server)
+```
+<h4> Source: [Center for Disease Control and Prevention | Fatal Injury Report](https://www.cdc.gov/injury/wisqars/fatal_injury_reports.html) </h4>
+
+<br>
+<br>
+<br>
+
+<h1>377 MASS SHOOTINGS* KILLED 1755 PEOPLE THIS YEAR </h1>
+<h2>A Map of Mass Shooting Incidents in the U.S. in 2016 as of November 10 </h2>
+
+```{r plot, echo=FALSE, message=FALSE, warning=FALSE, fig.align='right', fig.width=9.5, fig.height=4}
+library(leaflet)
+library(dplyr)
+library(htmltools)
+
+incidents <- read.csv("Mass Shooting 2016 Nov 10.csv",header = TRUE)
+
+
+m <- leaflet(data = incidents) %>% setView(lng = -98.5795, lat = 39.8282, zoom = 4) %>% 
+  addProviderTiles("OpenStreetMap.BlackAndWhite") %>% 
+  addCircleMarkers(lng = incidents$longitude, 
+             lat = incidents$latitude,
+             color="red",
+             fillOpacity = 0.65,
+             stroke = FALSE,
+             radius=incidents$radius,
+             popup= ~htmlEscape(popup)) 
+  
+
+m
+
+```
+<img src="Rplot08-01.png" align="middle">
+<br>
+<h3> *Mass shootings refer to shootings where 4 or more people are injured and/or killed. </h3>
+<h4> Source: [Gun Violence Archive | Mass Shootings-2016](http://www.gunviolencearchive.org/reports/mass-shooting)</h4>
+
