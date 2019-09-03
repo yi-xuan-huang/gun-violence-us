@@ -12,3 +12,4 @@ This project is a set of static and interactive visualizations of gun violence i
 The app that includes all the interactive and static graphs can be found at [https://yhuang.shinyapps.io/US-gun-violence-2017/](https://yhuang.shinyapps.io/US-gun-violence-2017/). Here's a snap shot of the app:
 
 ![app](image.png)
+
