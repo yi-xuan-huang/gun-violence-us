@@ -134,7 +134,6 @@ library(htmltools)
 
 incidents <- read.csv("Mass Shooting 2016 Nov 10.csv",header = TRUE)
 
-
 m <- leaflet(data = incidents) %>% setView(lng = -98.5795, lat = 39.8282, zoom = 4) %>% 
   addProviderTiles("OpenStreetMap.BlackAndWhite") %>% 
   addCircleMarkers(lng = incidents$longitude, 
